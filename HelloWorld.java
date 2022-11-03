@@ -38,9 +38,7 @@ public class HelloWorld {
     System.out.println("Hello, World..........DevOps Guys .................");
     System.out.println("Hello, World..........DevOps Guys .................");
     
-    System.out.println("Hello, World..........DevOps Guys .................");
-    System.out.println("Hello, World..........DevOps Guys .................");
-    System.out.println("Hello, World..........DevOps Guys .................");
+    System.out.println("Hello, World..........jenkins Guys .................");
    
     System.out.println("Hello, World..........DevOps Guys .................");
   }
