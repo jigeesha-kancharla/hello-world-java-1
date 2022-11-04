@@ -35,13 +35,7 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, World..........DevOps Guys .................");
-    System.out.println("Hello, World..........DevOps Guys .................");
-    System.out.println("Hello, World..........DevOps Guys .................");
-    
-    System.out.println("Hello, World..........testing webhooks .................");
-    System.out.println("Hello, World..........javafile in jenkins through git .................");
-    System.out.println("Hello, World..........jenkins Guys .................");
-   
-    System.out.println("Hello, World..........DevOps Guys .................");
+  
+      System.out.println("Hello, World..........DevOps Guys .................");
   }
 }
